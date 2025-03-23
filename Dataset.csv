@@ -1,0 +1,1205 @@
+Category,Label,Question,Answer
+Drop,1,Am I going to drop?,It depends on meeting the minimum CGPA of <MinCGPA> for semester <SEMESTER_NO>.
+Drop,1,Will I be dropped from program?,The Min cgpa of this <SEMESTER_NO> is <MinCGPA>
+Drop,1,Will I be dropped if I fail too many courses? ,Failing many courses can lead to removal from your program.
+Drop,1,Is my academic status safe in this semester?,Your status depends on performance. Min CGPA for semester <SEMESTER_NO>: <MinCGPA>.
+Drop,1,Could I be drop from my program?,Depends on performance. Min CGPA for semester <SEMESTER_NO>: <MinCGPA>.
+Drop,1,Am I at risk of being dropped?,It depends on meeting the minimum CGPA of <MinCGPA> for semester <SEMESTER_NO>.
+Drop,1,Is my GPA too low to stay enrolled?,"The Min cgpa of this <SEMESTER_NO> is <MinCGPA>, and Your cgpa is <CGPA>."
+Drop,1,Will failing these courses get me dropped?,Failing <failed_courses> courses effect your to drop. 
+Drop,1,Am I safe from being dropped in this semester?,"Safety depends on performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Is my academic standing good enough to stay?,"Your academic standing depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Could I lose my enrollment due to my cgpa?,"Your safety from being dropped depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Is there a chance I might get dropped?,Your status depends on performance. Min CGPA for <SEMESTER_NO>: <MinCGPA>.
+Drop,1,Could my performance lead to being dropped?,Your status depends on performance. Min CGPA for <SEMESTER_NO>: <MinCGPA>.
+Drop,1,Will my failed courses affect my enrollment?,"Yes, failed courses can affect your enrollment."
+Drop,1,Can I stay enrolled with my current cgpa?,Your current cgpa is <CGPA> and the min cgpa required to stay is <MINCGPA>.
+Drop,1,Is it possible? l be dropped soon?,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Does my academic record put me at risk?,Failing multiple courses may put your record at risk. Review and improve your grades.
+Drop,1,Will I remain in the program with my current cgpa?,Your current cgpa is <CGPA> and the min cgpa required to stay is <MINCGPA>.
+Drop,1,Is my current academic status secure?,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Am I close to being dropped from my program?,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Am I going to drop this semester? ,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Do I meet the requirements to avoid being dropped?,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Will I be dropped if I fail too many courses? ,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Is my academic record good enough to continue?,"It depends on your performance. Your CGPA: <CGPA>, Min required: <MINCGPA>."
+Drop,1,Am I in danger of losing my place in the program?,"It depends on your performance. Your CGPA: <CGPA>, Min to promote: <MINCGPA>."
+Drop,1,Will failing a  course lead to me being dropped? ,Failing multiple courses puts your record at risk. Review and improve your grades.
+Drop,1,What is the minimum CGPA required to avoid being dropped? ,Your cgpa is <CGPA> and the min cgpa required to promote  is <MINCGPA>.
+Drop,1,Will failing this course lead to being dropped?,Failing multiple courses risks your record. Review and improve your grades.
+Drop,1,Am I close to reaching the drop threshold? ,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I on the verge of being dropped?,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could my enrollment be drop due to my GPA?,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Will my performance this semester keep me safe?,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Is there a risk of me being drop?,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Will I be allowed to continue my studies?,"Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Can I avoid being dropped this semester?,"Pass current courses, improve GPA, and seek support to avoid being dropped."
+Drop,1,Do I still meet the enrollment criteria?,"It depends on your performance. Your CGPA: <CGPA>, Min to promote: <MINCGPA>."
+Drop,1,Am I going to drop this semester? ,"It depends on your performance. Your CGPA: <CGPA>, Min to promote: <MINCGPA>."
+Drop,1,Am I eligible to stay in the program?,"It depends on your performance. Your CGPA: <CGPA>, Min to promote: <MINCGPA>."
+Drop,1,Will I be dropped if I fail too many courses? ,"Yes, failed courses can affect your enrollment."
+Drop,1,What is the minimum CGPA required to avoid being dropped? ,The min cgpa required to promote  is <MINCGPA>.
+Drop,1,Will my GPA be a problem for staying enrolled?,"Yes, if your GPA is below than the <MINCGPA>"
+Drop,1,Is my academic performance sufficient to continue?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could I be excluded from the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I secure in my academic status?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could my current grades lead to dismissal?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Will my academic standing keep me in the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I failing to meet the program standards?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Will I be allowed to continue my studies?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Can I avoid being dropped this semester?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Do I still meet the enrollment criteria?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I eligible to stay in the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Is my current standing acceptable to continue?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could I lose my place due to my cgpa?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I at risk of not meeting the academic standards?,"If your GPA is low or you've failed multiple courses, you may be at risk."
+Drop,1,Will my GPA be a problem for staying enrolled?,"Yes, if your GPA is below your university's required threshold, it could risk your enrollment"
+Drop,1,Is my academic performance sufficient to continue?,"If your GPA is low or you've failed multiple courses, you may be at risk."
+Drop,1,Could I be excluded from the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I secure in my academic status?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could my current cgpa lead to dismissal?,Your cgpa is <CGPA> and the min cgpa required to promote  is <MINCGPA>.
+Drop,1,What is the minimum CGPA required to avoid being dropped?,The min cgpa required to promote  is <MINCGPA>.
+Drop,1,Will my academic standing keep me in the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Is my position in the course at risk?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Could I be forced to drop courses?,"It depends on your performance. Your CGPA: , Min required to promote: ."
+Drop,1,Will my academic performance get me drop?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I in danger of being expelled from the program?,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Is my enrollment status at risk?,"It depends on your performance. Your CGPA: , Min required to promote: ."
+Drop,1,Will my current GPA lead to dismissal?,Your cgpa is <CGPA> and the min cgpa required to promote  is <MINCGPA>.
+Drop,1,Am I going to drop this semester? ,"It depends on your performance. Your CGPA: , Min required to promote: ."
+Drop,1,Will I be dropped if I fail too many courses? ,"It depends on your performance. Your CGPA: <CGPA>, Min required to promote: <MINCGPA>."
+Drop,1,Am I safe from being dropped?,"It depends on minimum CGPA ,min cgpa required to promote  is <MINCGPA>.."
+Drop,1,What happens if I fail a course?,Failing a course can impact your CGPA and academic standing.
+Drop,1,Will I be dropped if I fail two courses?,It depends on your overall CGPA and academic policy.
+Drop,1,Is my CGPA too low to continue?,A CGPA below  may result in being dropped.
+Drop,1,What is the minimum CGPA to stay enrolled?,You must maintain a CGPA of at least <MINCGPA> .
+Drop,1,How can I avoid being dropped?,Improve your grades and meet the minimum CGPA requirements.
+Drop,1,Am I at risk of being drop this semester?,Your risk depends on your CGPA and semester performance.
+Drop,1,Can failing three courses drop me?,"Yes, failing multiple courses may lead to being dropped."
+Drop,1,What CGPA should I aim for to stay safe?,You need a CGPA of  or higher to remain safe.
+Drop,1,Is my academic performance satisfactory?,It depends on meeting the required CGPA of .
+Drop,1,Will academic probation affect my status?,Yes extended probation may lead to being dropped.
+Drop,1,Can improving this semester save me?,Yes a strong performance can improve your CGPA.
+Drop,1,What happens after being dropped?,You may have to re-apply or meet specific criteria to return.
+Drop,1,Are there warnings before being dropped?,Yes academic warnings are usually issued.
+Drop,1,Can I appeal a drop decision?,Yes appeals are allowed based on valid reasons.
+Drop,1,What are the consequences of dropping out?,Consequences may include academic and financial impacts.
+Drop,1,Can low attendance cause me to be dropped?,Yes poor attendance may lead to being dropped.
+Drop,1,How long can I stay on probation?,Probation duration depends on institutional policies.
+Drop,1,Can I rejoin after being dropped?,Yes subject to meeting reinstatement criteria.
+Drop,1,Is there a grace period before being dropped?,Yes policies often include a grace period.
+Drop,1,Does a dropped course count in my CGPA?, it may affect your CGPA.
+Drop,1,Can I drop all my courses?,Dropping all courses may lead to losing enrollment status.
+Drop,1,Am I safe from being dropped?,It depends on achieving the minimum CGPA the min cgpa required to promote  is <MINCGPA> .
+Drop,1,What happens if I fail a course?,Failing a course can impact your CGPA and academic standing.
+Drop,1,Will I be dropped if I fail two courses?,It depends on your overall CGPA and academic policy.
+Drop,1,Is my CGPA too low to continue?,A CGPA below  may result in being dropped.
+Drop,1,What is the minimum CGPA to stay enrolled?,You must maintain a CGPA of at least .
+Drop,1,How can I avoid being dropped?,Improve your grades and meet the minimum CGPA requirements.
+Drop,1,Am I at risk of being drop this semester?,Your risk depends on your CGPA and semester performance.
+Drop,1,Can failing three courses drop me?,Yes failing multiple courses may lead to being dropped.
+DropCourses,6,What are my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me about my drop courses?,Your dropped courses are <drop_course>.
+DropCourses,6,Tell courses did I drop?,You dropped <drop_course>.
+DropCourses,6,What courses did I drop?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my dropped courses.,You drop from <drop_course>.
+DropCourses,6,What are my dropped courses?,Your drop courses are <drop_course>.
+DropCourses,6,Can you tell me my drop courses?,You drop from <drop_course>.
+DropCourses,6,Which courses have I dropped?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop?,You drop <drop_course>.
+DropCourses,6,Can you share my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,What are the courses I dropped?,You drop <drop_course>.
+DropCourses,6,Tell me the courses I dropped.,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I drop?,You drop courses of <drop_course>.
+DropCourses,6,What courses did I drop?,Your dropped courses are <drop_course>.
+DropCourses,6,Can you provide my drop courses?,You dropped <drop_course>.
+DropCourses,6,What are my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I unenroll from?,You drop from <drop_course>.
+DropCourses,6,What courses did I drop of?,Your drop courses are <drop_course>.
+DropCourses,6,Can you list my drop courses?,You drop from <drop_course>.
+DropCourses,6,What courses did I drop?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my drop courses.,You drop <drop_course>.
+DropCourses,6,What are my cancelled courses?,Your drop courses are <drop_course>.
+DropCourses,6,Can you tell me my drop courses?,You drop <drop_course>.
+DropCourses,6,Which courses did I drop courses of program?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop in this program ?,You drop courses of <drop_course>.
+DropCourses,6,Can you share my dropped courses?,Your dropped subjects are <drop_course>.
+DropCourses,6,What are my drop courses?,You dropped <drop_course>.
+DropCourses,6,Tell me the courses I drop from.,Your drop subjects are <drop_course>.
+DropCourses,6,Which courses did I drop this semester?,You drop from <drop_course>.
+DropCourses,6,What courses did I drop this year?,Your drop subjects are <drop_course>.
+DropCourses,6,Can you list my dropped courses?,You drop from <drop_course>.
+DropCourses,6,What are my drop courses?,Your drop subjects are <drop_course>.
+DropCourses,6,Tell me my drop courses.,You drop <drop_course>.
+DropCourses,6,Which courses did I drop?,Your drop subjects are <drop_course>.
+DropCourses,6,What courses did I drop in my program?,You drop <drop_course>.
+DropCourses,6,Can you provide my drop courses?,Your drop subjects are <drop_course>.
+DropCourses,6,What are my dropped courses?,You drop courses of <drop_course>.
+DropCourses,6,Tell me my drop drop?,Your dropped courses are <drop_course>.
+DropCourses,6,Which courses did I drop this semester?,You dropped <drop_course>.
+DropCourses,6,What courses did I drop this semester?,Your drop courses are <drop_course>.
+DropCourses,6,Can you tell me my drop courses?,You drop from <drop_course>.
+DropCourses,6,What are my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my drop courses.,You drop from <drop_course>.
+DropCourses,6,Which courses did I drop this semester?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop this semester?,You drop <drop_course>.
+DropCourses,6,Can you share my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,What are my dropped subjects?,You drop <drop_course>.
+DropCourses,6,Tell me my drop subjects.,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I drop this period?,You drop courses of <drop_course>.
+DropCourses,6,What courses did I drop this cycle?,Your dropped courses are <drop_course>.
+DropCourses,6,Can you list my drop courses?,You dropped <drop_course>.
+DropCourses,6,What are my drop subjects?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my unenroll subjects.,You drop from <drop_course>.
+DropCourses,6,Which courses did I drop this phase?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop this semester?,You drop from <drop_course>.
+DropCourses,6,Can you provide my dropped subjects?,Your drop courses are <drop_course>.
+DropCourses,6,What are my drop subjects?,You drop <drop_course>.
+DropCourses,6,Tell me my drop subjects.,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I drop this block?,You drop <drop_course>.
+DropCourses,6,What courses did I drop this interval?,Your drop courses are <drop_course>.
+DropCourses,6,Can you tell me my drop subjects?,You drop courses of <drop_course>.
+DropCourses,6,What are my drop subjects?,Your dropped subjects are <drop_course>.
+DropCourses,6,Tell me my dropped courses.,You dropped <drop_course>.
+DropCourses,6,Which courses did I drop this segment?,Your drop subjects are <drop_course>.
+DropCourses,6,What courses did I drop this timeframe?,You drop from <drop_course>.
+DropCourses,6,Can you share my drop courses?,Your drop subjects are <drop_course>.
+DropCourses,6,What are my drop subjects?,You drop from <drop_course>.
+DropCourses,6,Tell me my drop courses.,Your drop subjects are <drop_course>.
+DropCourses,6,Which courses did I drop this period?,You drop <drop_course>.
+DropCourses,6,What courses did I drop this semester?,Your drop subjects are <drop_course>.
+DropCourses,6,Can you list my drop courses?,You drop <drop_course>.
+DropCourses,6,What are my dropped courses?,Your drop subjects are <drop_course>.
+DropCourses,6,Tell me my drop courses.,You drop courses of <drop_course>.
+DropCourses,6,Which courses did I drop this semester?,Your dropped courses are <drop_course>.
+DropCourses,6,What courses did I drop this year?,You dropped <drop_course>.
+DropCourses,6,Can you provide my drop subjects?,Your drop courses are <drop_course>.
+DropCourses,6,What are my drop courses?,You drop from <drop_course>.
+DropCourses,6,Tell me my drop subjects.,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I drop this quarter?,You drop from <drop_course>.
+DropCourses,6,What courses did I drop this cycle?,Your drop courses are <drop_course>.
+DropCourses,6,Can you tell me my dropped subjects?,You drop <drop_course>.
+DropCourses,6,What are my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my drop subjects.,You drop <drop_course>.
+DropCourses,6,Which courses did I drop this phase?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop this block?,You drop courses of <drop_course>.
+DropCourses,6,Can you share my drop courses?,Your dropped courses are <drop_course>.
+DropCourses,6,What are my drop courses?,You dropped <drop_course>.
+DropCourses,6,Tell me my drop courses.,Your drop courses are <drop_course>.
+DropCourses,6,Which courses did I drop this interval?,You drop from <drop_course>.
+DropCourses,6,What courses did I drop this segment?,Your drop courses are <drop_course>.
+DropCourses,6,Can you list my drop courses?,You drop from <drop_course>.
+DropCourses,6,What are my drop courses?,Your drop courses are <drop_course>.
+DropCourses,6,Tell me my drop courses.,You drop <drop_course>.
+DropCourses,6,Which courses did I drop this timeframe?,Your drop courses are <drop_course>.
+DropCourses,6,What courses did I drop this period?,You drop <drop_course>.
+DropCourses,6,Can you provide my drop subjects?,Your drop courses are <drop_course>.
+DropCourses,6,What are my dropped courses?,You drop courses of <drop_course>.
+DropCourses,6,Tell me my drop subjects.,Your dropped subjects are <drop_course>.
+DropCourses,6,Which courses did I drop this semester?,You dropped <drop_course>.
+DropCourses,6,What courses did I drop this semester?,Your drop subjects are <drop_course>.
+Enrollment,2,Can you show me my current enrollments?,Here are your current enrollments: <enrollCourses>.
+Enrollment,2, Tell me the enroll courses?,Here are your enrollments: <enrollCourses>.
+Enrollment,2,What courses am I taking this semester?,"This semester, you are enrolled in the following courses: <enrollCourses>."
+Enrollment,2,Which courses did I enroll in?,"This semester, you are enrolled in the following courses: <enrollCourses>."
+Enrollment,2,What courses am I registered for this semester?,You have enrolled in <enrollCourses>.
+Enrollment,2,Show me all my course enrollments.,You are registered for the following courses: <enrollCourses>.
+Enrollment,2,How many courses have I enrolled in?,Your course enrollments are: <enrollCourses>.
+Enrollment,2,Can I see my current course list?,You are currently enrolled in <enrollCourses> courses.
+Enrollment,2,Can you tell me about my enrolled courses?,Sure! Here is your course list: <enrollCourses>.
+Enrollment,2,Are all my courses confirmed for this semester?,Your enrollment status shows that you are enrolled in: <enrollCourses>.
+Enrollment,2,Which subjects did I enroll in?,"Yes, all your courses are confirmed: <enrollCourses>."
+Enrollment,2,Tell me about my course enrollments this year.,You have enrolled in the following subjects: <enrollCourses>.
+Enrollment,2,What are the courses I've signed up for?,Here are the courses you are enrolled in this year: <enrollCourses>.
+Enrollment,2,Can you give me a list of my enrolled courses this semester?,You have signed up for: <enrollCourses>.
+Enrollment,2,What are the names of my enrolled courses?,Your enrolled courses this semester are: <enrollCourses>.
+Enrollment,2,Which subjects have I already enrolled in?,The names of your enrolled courses are: <enrollCourses>.
+Enrollment,2,What courses am I enrolled in?,Your enrolled subjects are: <enrollCourses>.
+Enrollment,2,Can you show my current course enrollments?,You are enrolled in: <enrollCourses>.
+Enrollment,2,List all the courses I've registered for.,Here are your enrolled courses: <enrollCourses>.
+Enrollment,2,How can I view my enrolled courses?,Your registered courses are: <enrollCourses>.
+Enrollment,2,What subjects am I taking this semester?,Your enrolled courses are: <enrollCourses>.
+Enrollment,2,Tell me the courses I enroll?,You are taking: <enrollCourses>.
+Enrollment,2,Can you display my enrolled course list?,You have signed up for: <enrollCourses>.
+Enrollment,2,Which courses am I enrolling currently?,Here is your course list: <enrollCourses>.
+Enrollment,2,What are my active enrollments?,You are enrolling: <enrollCourses>.
+Enrollment,2,What's my current course lineup?,Your active enrollments include: <enrollCourses>.
+Enrollment,2,Can I see the courses I'm enrolled in?,Your lineup is: <enrollCourses>.
+Enrollment,2,Provide details of my enrolled courses?,"Yes, you are enrolled in: <enrollCourses>."
+Enrollment,2,What courses are listed under my enrollment?,You are enrolled in these courses: <enrollCourses>.
+Enrollment,2,Show me my registered courses.,The courses listed are: <enrollCourses>.
+Enrollment,2,What's on my current enrollment record?,Your registered courses are: <enrollCourses>.
+Enrollment,2,Am I enrolled in any electives?,Your record includes: <enrollCourses>.
+Enrollment,2,Tell me about my ongoing courses.,"Yes, your electives are: <enrollCourses>."
+Enrollment,2,What are my academic enrollments in this semester?,Your ongoing courses are: <enrollCourses>.
+Enrollment,2,Can you give an overview of my registered courses?,Your enrollments this semester are: <enrollCourses>.
+Enrollment,2,What's my courses for this semester?,Your registered courses are: <enrollCourses>.
+Enrollment,2,What courses have I enroll for?,Your includes: <enrollCourses>.
+Enrollment,2,What courses am I enrolled in this semester?,You enroll courses are: <enrollCourses>.
+Enrollment,2,Could you list my enroll courses?,"This semester, you are enrolled in: <enrollCourses>."
+Enrollment,2,What's on my current academic plan?,Your confirmed courses are: <enrollCourses>.
+Enrollment,2,Do I have any courses enrolled this semester?,Your academic plan includes: <enrollCourses>.
+Enrollment,2,Which subjects have I enrolled in?,"Yes, you are enrolled in: <enrollCourses>."
+Enrollment,2,What's my list of enrolled courses?,You are enrolled in: <enrollCourses>.
+Enrollment,2,What courses are included in my enrollment?,Your list includes: <enrollCourses>.
+Enrollment,2,How many courses have I enrolled in?,Your enrollment includes: <enrollCourses>.
+Enrollment,2,Can I enroll  courses?,You have enrolled in <enrollCourses> courses.
+Enrollment,2,What is my current enrollments?,Your current enrollments include: <enrollCourses>.
+Enrollment,2,Which courses can I take this semester?,You are currently enrolled in <enrollCourses>.
+Enrollment,2,How do I enroll from a course?,Available courses include: <enrollCourses>.
+Enrollment,2,What? my current enrollment status?,"Yes, but you need approval if exceeding the credit limit."
+Enrollment,2,Which courses can I take this semester?,You are currently enrolled in <enrollCourses>.
+Enrollment,2,How do I enroll from a course?,Available courses include: <enrollCourses>.
+Enrollment,2,What courses am I currently enrolled in?,Your current enrollments: <enrollCourses>.
+Enrollment,2,Can you tell me about my enrolled courses?,You are currently enrolled in: <enrollCourses>.
+Enrollment,2,What are the courses Im enrolled in this semester?,Your enrolled courses are: <enrollCourses>.
+Enrollment,2,Could you list my current enrollments?,Here are your current enrollments: <enrollCourses>.
+Enrollment,2,Can you provide me with my enrolled courses?,You are taking the following courses: <enrollCourses>.
+Enrollment,2,What courses have I registered for?,Your current course list includes: <enrollCourses>.
+Enrollment,2,Can you share the list of courses Im enrolled in?,You are enrolled in: <enrollCourses>.
+Enrollment,2,What are the courses Im taking this semester?,Your enrolled courses this semester are: <enrollCourses>.
+Enrollment,2,Could you tell me which courses Im enrolled in?,You have registered for: <enrollCourses>.
+Enrollment,2,Can you let me know my current course enrollments?,Your current enrollments include: <enrollCourses>.
+Enrollment,2,What courses am I signed up for?,You are signed up for: <enrollCourses>.
+Enrollment,2,Can you give me details about my enrolled courses?,Your enrolled courses are as follows: <enrollCourses>.
+Enrollment,2,Could you inform me about the courses Im enrolled in?,You are enrolling: <enrollCourses>.
+Enrollment,2,What are the courses Im enrolling this semester?,Your current course enrollments are: <enrollCourses>.
+Enrollment,2,Can you tell me the courses Im registered for?,You are enrolled in the following courses: <enrollCourses>.
+Enrollment,2,Could you provide me with my current course list?,Your course list for this semester is: <enrollCourses>.
+Enrollment,2,What courses am I currently taking?,You are currently taking: <enrollCourses>.
+Enrollment,2,Can you share the courses Im enrolled in this semester?,Your enrolled courses include: <enrollCourses>.
+Enrollment,2,Could you let me know what courses Im enrolled in?,You are registered for the following courses: <enrollCourses>.
+Enrollment,2,What are the courses Im enrolled in right now?,Your current enrollments consist of: <enrollCourses>.
+Enrollment,2,Can you tell me about my current course enrollments?,You are enrolled in these courses: <enrollCourses>.
+Enrollment,2,Could you provide details about my enrolled courses?,Your course enrollments are: <enrollCourses>.
+Enrollment,2,What courses am I enrolled in this semester?,You are enrolled in the following: <enrollCourses>.
+Enrollment,2,Can you give me a list of my enrolled courses?,Your current course enrollments include: <enrollCourses>.
+Enrollment,2,Could you tell me the courses Im currently enrolled in?,You are enrolled in: <enrollCourses>.
+Enrollment,2,Can you provide details about my current classes?,Your current classes are: <enrollCourses>.
+Enrollment,2,Which modules am I signed up for this term?,"This term, you are signed up for the following modules: <enrollCourses>."
+Enrollment,2,What is my course schedule for this semester?,Your course schedule includes: <enrollCourses>
+Enrollment,2,Could you list the subjects I'm currently studying?,You are currently studying: <enrollCourses>
+Enrollment,2,What classes have I registered for this academic year?,"This academic year, you have registered for: <enrollCourses>."
+Enrollment,2,Can I see an overview of my enrolled subjects?,Certainly! Your enrolled subjects are: <enrollCourses>.
+Enrollment,2,Which courses are part of my current curriculum?,Your current curriculum includes the following courses: <enrollCourses>.
+Enrollment,2,What are the details of my active courses?,Your active courses are: <enrollCourses>.
+Enrollment,2,Could you show me my course enrollment summary?,Here's a summary of your course enrollments: <enrollCourses>.
+Enrollment,2,What subjects have I chosen for this semester?,"This semester, you have chosen: <enrollCourses>"
+Enrollment,2,Can you list the classes I'm attending this term?,You are attending the following classes this term: <enrollCourses>.
+Enrollment,2,Which courses are included in my study plan?,Your study plan includes these courses: <enrollCourses>.
+Enrollment,2,What is my current academic schedule?,Your academic schedule consists of: <enrollCourses>.
+Enrollment,2,Could you provide a list of my current modules?,Your current modules are: <enrollCourses>.
+Enrollment,2,What subjects am I registered for this year?,"This year, you are registered for: <enrollCourses>."
+Enrollment,2,Can I get a breakdown of my enrolled courses?,Certainly! Your enrolled courses are: <enrollCourses>.
+Enrollment,2,Which classes are on my current timetable?,Your current timetable includes: <enrollCourses>.
+Enrollment,2,What are the courses I'm currently participating in?,You are currently participating in: <enrollCourses>.
+Enrollment,2,Could you list the subjects I'm involved in this semester?,"This semester, you are involved in: <enrollCourses>."
+Enrollment,2,What courses have I opted for this term?,"This term, you have opted for: <enrollCourses>."
+Enrollment,2,Can you show me the list of my current academic courses?,Your current academic courses are: <enrollCourses>
+Enrollment,2,Which subjects are part of my current studies?,Your current studies include the following subjects: <enrollCourses>.
+Enrollment,2,What classes am I currently registered for?,You are currently registered for the following classes: <enrollCourses>
+Enrollment,2,Can you provide a list of the subjects I'm enrolled in this semester?,"This semester, you are enrolled in the following subjects: <enrollCourses>."
+CGPA,3,What is my current CGPA?,Your CGPA is <CGPA>.
+CGPA,3,Can you tell me my CGPA?,Your current CGPA is <CGPA>.
+CGPA,3,Whats my CGPA right now?,"As of today, your CGPA is <CGPA>."
+CGPA,3,Could you let me know my current CGPA?,Your CGPA is <CGPA>.
+CGPA,3,Can you provide me with my CGPA?,Your CGPA as of today is <CGPA>.
+CGPA,3,What is my CGPA as of today?,Your   CGPA is <CGPA>.
+CGPA,3,Can you share my current CGPA?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you tell me my CGPA for this semester?,Your current CGPA is <CGPA>.
+CGPA,3,Whats my CGPA as of today?,Your CGPA right now is <CGPA>.
+CGPA,3,Can you let me know my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my CGPA at the moment?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you give me my current CGPA?,Your CGPA is currently <CGPA>.
+CGPA,3,Could you inform me about my CGPA?,Your CGPA as of now is <CGPA>.
+CGPA,3,Whats my CGPA as of now?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Can you tell me my   CGPA?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Can you provide my CGPA as of today?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Could you share my current CGPA?,Your current CGPA is <CGPA>.
+CGPA,3,Whats my CGPA as of today?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA right now?,Your CGPA as of now is <CGPA>.
+CGPA,3,What is my current CGPA?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your   CGPA as of now is <CGPA>.
+CGPA,3,Could you provide me with my CGPA as of today?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Whats my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Can you share my CGPA as of now?,Your CGPA as of today is <CGPA>.
+CGPA,3,Could you tell me my current   CGPA?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA for this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Whats my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you provide my current CGPA?,Your   CGPA for this semester is <CGPA>.
+CGPA,3,Could you inform me about my CGPA as of today?,Your CGPA as of now is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you share my CGPA for this semester?,Your current CGPA is <CGPA>.
+CGPA,3,Whats my current  CGPA?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA as of this semester?,Your CGPA as of now is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you provide my CGPA for this semester?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Could you tell me my CGPA as of now?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Whats my CGPA for this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you share my current CGPA for this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Could you let me know my CGPA as of today?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your CGPA as of now is <CGPA>.
+CGPA,3,Could you provide my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Can you let me know my CGPA as of now?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you share my CGPA for this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Could you tell me my current CGPA as of today?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA right now?,Your CGPA is <CGPA>.
+CGPA,3,Can you tell me my current   CGPA?,Your current CGPA is <CGPA>.
+CGPA,3,Could you let me know my CGPA for this semester?,"As of today, your CGPA is <CGPA>."
+CGPA,3,What is my CGPA as of today?,Your CGPA is <CGPA>.
+CGPA,3,Can you provide me with my CGPA?,Your CGPA as of today is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your   CGPA is <CGPA>.
+CGPA,3,Can you share my CGPA as of now?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you tell me my CGPA for this semester?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA right now is <CGPA>.
+CGPA,3,Can you let me know my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you provide my current CGPA?,Your CGPA is currently <CGPA>.
+CGPA,3,Could you inform me about my CGPA as of today?,Your CGPA as of now is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you share my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my current  CGPA?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA as of this semester?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Can you provide my CGPA for this semester?,Your CGPA as of now is <CGPA>.
+CGPA,3,Could you tell me my CGPA as of now?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your   CGPA as of now is <CGPA>.
+CGPA,3,Can you share my current CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you let me know my CGPA as of today?,Your CGPA for this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your current CGPA is <CGPA>.
+CGPA,3,Could you provide my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA as of now?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your   CGPA for this semester is <CGPA>.
+CGPA,3,Can you share my CGPA for this semester?,Your CGPA as of now is <CGPA>.
+CGPA,3,Could you tell me my current CGPA as of today?,Your CGPA as of today is <CGPA>.
+CGPA,3,What is my CGPA right now?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Can you tell me my current   CGPA?,Your current CGPA is <CGPA>.
+CGPA,3,Could you let me know my CGPA for this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA as of today?,Your CGPA as of now is <CGPA>.
+CGPA,3,Can you provide me with my CGPA?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Can you share my CGPA as of now?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you tell me my CGPA for this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,Can you let me know my CGPA for this semester?,Your current CGPA is <CGPA>.
+CGPA,3,What is my CGPA as of this semester?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you provide my current CGPA?,Your CGPA as of now is <CGPA>.
+CGPA,3,Could you inform me about my CGPA as of today?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,What is my CGPA for this semester?,Your   CGPA as of today is <CGPA>.
+CGPA,3,Can you tell me my CGPA for this semester?,Your CGPA for this semester is <CGPA>.
+CGPA,3,Could you share my CGPA for this semester?,Your CGPA as of today is <CGPA>.
+CGPA,3,What is my current   CGPA?,Your CGPA as of this semester is <CGPA>.
+CGPA,3,Can you let me know my CGPA as of this semester?,Your current CGPA is <CGPA>.
+Failed_Course,4,tell me about my fail courses?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Which courses did I fail?,You failed the following courses: <Fail-Courses>.
+Failed_Course,4,Could you tell me the courses I failed?,Your failed courses include <Fail-Courses>.
+Failed_Course,4,Do you know which courses I failed?,The list of courses you failed is <Fail-Courses>.
+Failed_Course,4,Can you provide me with a list of my failed courses?,You didnt pass these courses: <Fail-Courses>.
+Failed_Course,4,What courses did I not pass?,Your failed courses are as follows: <Fail-Courses>.
+Failed_Course,4,Can you let me know which courses I failed?,The courses you did not pass are <Fail-Courses>.s
+Failed_Course,4,Could you inform me about my failed courses?,Here are the courses you failed: <Fail-Courses>.
+Failed_Course,4,What are the courses I did not pass?,You failed in these courses: <Fail-Courses>.
+Failed_Course,4,Can you share the list of courses I failed?,The courses you failed include <Fail-Courses>.
+Failed_Course,4,Which courses did I not pass?,Your failed courses consist of <Fail-Courses>.
+Failed_Course,4,Could you tell me the courses I did not pass?,You failed the courses <Fail-Courses>.
+Failed_Course,4,Can you give me details about my failed courses?,The courses you did not pass include <Fail-Courses>.
+Failed_Course,4,What courses have I failed?,Your failed courses are listed as <Fail-Courses>.
+Failed_Course,4,Can you tell me which courses I failed?,You failed in the following courses: <Fail-Courses>.
+Failed_Course,4,Could you provide details about my failed courses?,The courses you failed are the following: <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in?,Your failed courses are detailed as <Fail-Courses>.
+Failed_Course,4,Can you let me know what courses I failed?,You did not pass the courses <Fail-Courses>.
+Failed_Course,4,Could you share the courses I failed?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Which courses have I failed?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you tell me about the courses I did not pass?,You failed these courses: <Fail-Courses>.
+Failed_Course,4,Could you list the courses I failed?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,What courses did I fail in?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you inform me about my failed courses?,You did not pass the following courses: <Fail-Courses>.
+Failed_Course,4,Could you let me know which courses I did not pass?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed this semester?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you provide me with my failed courses?,You failed the courses <Fail-Courses>.
+Failed_Course,4,Could you tell me the courses I failed this semester?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Which courses did I fail this semester?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you give me a list of the courses I failed?,You did not pass these courses: <Fail-Courses>.
+Failed_Course,4,Could you share the courses I did not pass?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,What courses did I failed?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you tell me the courses I failed ?,You failed the following courses: <Fail-Courses>.
+Failed_Course,4,Could you provide a list of my failed courses?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed?,You did not pass the courses <Fail-Courses>.
+Failed_Course,4,Can you let me know the courses I failed?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you inform me about the courses I did not pass?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What courses have I failed so far?,You failed these courses: <Fail-Courses>.
+Failed_Course,4,Can you tell me which courses I did not pass?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you give me details about the courses I failed?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in the past?,You didnt pass the following courses: <Fail-Courses>.
+Failed_Course,4,Can you share the courses I failed in previous semesters?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you list the courses I didnt pass in the past?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What courses did I fail in previous semesters?,You failed the courses <Fail-Courses>.
+Failed_Course,4,Can you provide me with the courses I failed in the past?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you tell me about the courses I failed earlier?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in earlier semesters?,You didnt pass these courses: <Fail-Courses>.
+Failed_Course,4,Can you let me know the courses I failed in previous semesters?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Can you tell me about my fail courses?,Your fail courses are <Fail-Courses>
+Failed_Course,4,Tell me about my fail courses?,Your fail courses are <Fail-Courses>
+Failed_Course,4,What happens if I fail a course?,Failing a course can impact your CGPA and academic standing. You may need to retake the course.
+Failed_Course,4,Will failing a course affect my graduation?,"Yes, failing a course can delay your graduation if it is a required course for your program."
+Failed_Course,4,Can I retake a failed course?,"Yes, you can retake a failed course to improve your grade and CGPA."
+Failed_Course,4,What is the impact of failing a course on my CGPA?,Failing a course will lower your CGPA. Retaking the course and earning a better grade can help improve it.
+Failed_Course,4,Can I graduate if I fail a course?,You must pass all required courses to graduate. Failing a course may delay your graduation.
+Failed_Course,4,What should I do if I fail a course?,"You should retake the course, seek academic advising, and focus on improving your performance."
+Failed_Course,4,Will failing a course put me on academic probation?,"Yes, failing multiple courses may result in academic probation."
+Failed_Course,4,How do I recover from failing a course?,"Retake the course, seek tutoring, and improve your study habits."
+Failed_Course,4,Can you let me know which courses I failed this semester?,Your fail courses are <Fail-Courses>.
+Failed_Course,4,Could you tell me the courses I failed?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in the previous semester?,You failed the following courses: <Fail-Courses>.
+Failed_Course,4,Can you provide me with the list of courses I failed?,Your failed courses include <Fail-Courses>.
+Failed_Course,4,Which courses did I fail in the?,The list of courses you failed is <Fail-Courses>.
+Failed_Course,4,Could you share the courses I failed in the past semesters?,You didnt pass these courses: <Fail-Courses>.
+Failed_Course,4,What courses did I fail in the previous semester?,Your failed courses are as follows: <Fail-Courses>.
+Failed_Course,4,Can you tell me the courses I failed in the?,The courses you didnt pass are <Fail-Courses>.
+Failed_Course,4,Could you inform me about the courses I failed in the past?,Here are the courses you failed: <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in earlier semesters?,You failed in these courses: <Fail-Courses>.
+Failed_Course,4,Can you let me know the courses I failed in the?,The courses you failed include <Fail-Courses>.
+Failed_Course,4,Could you provide details about the courses I failed?,Your failed courses consist of <Fail-Courses>.
+Failed_Course,4,What courses did I fail in the previous semester?,You failed the courses <Fail-Courses>.
+Failed_Course,4,Can you share the courses I failed in the past semesters?,The courses you didnt pass include <Fail-Courses>.
+Failed_Course,4,Could you tell me the courses I failed in the?,Your failed courses are listed as <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in the past semesterss?,You failed in the following courses: <Fail-Courses>.
+Failed_Course,4,Can you provide me with the courses I failed in the?,The courses you failed are the following: <Fail-Courses>.
+Failed_Course,4,Could you let me know which courses I failed in the previous semesters?,Your failed courses are detailed as <Fail-Courses>.
+Failed_Course,4,What courses did I fail in the last academic semesters?,You didnt pass the courses <Fail-Courses>.
+Failed_Course,4,Can you tell me the courses I failed in the past semesters?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you share the courses I failed in the?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in the previous semester?,You failed these courses: <Fail-Courses>.
+Failed_Course,4,Can you provide me with the courses I failed in the past semesterss?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you tell me which courses I failed in the?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What courses did I fail in the previous academic semester?,You didnt pass the following courses: <Fail-Courses>.
+Failed_Course,4,Can you let me know the courses I failed in the past semesters?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you inform me about the courses I failed in the?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed in the previous semester?,You failed the courses <Fail-Courses>.
+Failed_Course,4,Can you share the courses I failed in the?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you provide details about the courses I failed in the past semesters?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What courses did I fail in the last academic semesters?,You didnt pass these courses: <Fail-Courses>.
+Failed_Course,4,Can you tell me the courses I failed in the previous semester?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,Could you let me know which courses I failed in the past semesters?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,What are the courses I failed?,You failed the following courses: <Fail-Courses>.
+Failed_Course,4,Can you provide me with the courses I failed in the previous semester?,The courses you failed are <Fail-Courses>.
+Failed_Course,4,tell me  my fail courses?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you show me a list of the courses I failed?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you inform me about my failed courses?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you show me with the courses I failed in the previous semester?,Your failed courses are <Fail-Courses>.
+Failed_Course,4,Can you tell me about my failed courses?,
+PreviousCourse,5,Tell me about my  previous courses?,Your previous courses are <previous_course>.
+PreviousCourse,5,Can you list my past courses?,Your past courses are <previous_course>.
+PreviousCourse,5,What courses did I take before?,Your earlier courses are <previous_course>.
+PreviousCourse,5,Tell me my earlier courses.,Your last courses were <previous_course>.
+PreviousCourse,5,What are my past enrollments?,Your previous enrollments were <previous_course>.
+PreviousCourse,5,Can you show my previous courses?,Your past enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take earlier?,Your earlier enrollments were <previous_course>.
+PreviousCourse,5,List my previous courses.,Your courses were <previous_course>.
+PreviousCourse,5,What were my earlier enrollments?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,Can you tell me my past courses?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,What courses did I take?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What were my last courses?,Your  courses were <previous_course>.
+PreviousCourse,5,Can you share my previous courses?,Your previous year courses were <previous_course>.
+PreviousCourse,5,What courses did I take before this?,Your past year courses were <previous_course>.
+PreviousCourse,5,Tell me my past enrollments.,Your earlier year courses were <previous_course>.
+PreviousCourse,5,What were my courses?,Your courses were <previous_course>.
+PreviousCourse,5,Can you list my earlier courses?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take previously?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,What were my past courses?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,Can you tell me my earlier enrollments?,Your courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What were my previous enrollments?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,Can you show my past courses?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take earlier this year?,Your last academic semester courses were <previous_course>.
+PreviousCourse,5,Tell me my previous courses.,Your previous academic semester courses were <previous_course>.
+PreviousCourse,5,What were my courses before this semester?,Your past academic semester courses were <previous_course>.
+PreviousCourse,5,Can you list my past enrollments?,Your earlier academic semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take?,Your courses were <previous_course>.
+PreviousCourse,5,What were my earlier courses?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,Can you tell me my previous enrollments?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past semesters?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What were my courses?,Your enrollments were <previous_course>.
+PreviousCourse,5,Can you share my earlier courses?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take before this semester?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,Tell me my past semesters courses.,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses earlier this year?,Your enrollments were <previous_course>.
+PreviousCourse,5,Can you list my previous enrollments?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the past semesters?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,What were my courses?,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,Can you tell me my past semesters enrollments?,Your  enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the previous semester?,Your previous year enrollments were <previous_course>.
+PreviousCourse,5,What were my courses earlier this semester?,Your past year enrollments were <previous_course>.
+PreviousCourse,5,Can you show my past enrollments?,Your earlier year enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the?,Your enrollments were <previous_course>.
+PreviousCourse,5,Tell me my previous semester courses.,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the past year?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,Can you list my earlier enrollments?,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the previous semester?,Your enrollments were <previous_course>.
+PreviousCourse,5,What were my courses?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,Can you tell me my past semesters courses?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the past semesters?,Your last academic semester enrollments were <previous_course>.
+PreviousCourse,5,Can you share my previous semester courses?,Your previous academic semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the?,Your past academic semester enrollments were <previous_course>.
+PreviousCourse,5,Tell me my earlier semester courses.,Your earlier academic semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the previous year?,Your enrollments were <previous_course>.
+PreviousCourse,5,Can you list my past semesters courses?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the?,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,Can you tell me my previous semester courses?,Your courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past semesters?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What were my courses in the earlier semester?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,Can you show my previous year courses?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the semesters?,Your courses were <previous_course>.
+PreviousCourse,5,Tell me my past semesters courses.,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What were my courses in the previous semester?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,Can you list my earlier semester courses?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past semesters?,Your  courses were <previous_course>.
+PreviousCourse,5,What were my courses in the?,Your previous year courses were <previous_course>.
+PreviousCourse,5,Can you tell me my previous semester courses?,Your past year courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your earlier year courses were <previous_course>.
+PreviousCourse,5,What were my courses in the past semesters?,Your courses were <previous_course>.
+PreviousCourse,5,Can you share my courses?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the previous semester?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,Tell me my earlier semester courses.,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What were my courses in the?,Your courses were <previous_course>.
+PreviousCourse,5,Can you list my past semesters courses?,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,What were my courses in the previous semester?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,Can you tell me my courses?,Your last academic semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past academic semester?,Your previous academic semester courses were <previous_course>.
+PreviousCourse,5,What were my courses in the earlier academic semester?,Your past academic semester courses were <previous_course>.
+PreviousCourse,5,Can you show my previous academic semester courses?,Your earlier academic semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the last academic semester?,Your courses were <previous_course>.
+PreviousCourse,5,Tell me my past academic semester courses.,Your previous semester courses were <previous_course>.
+PreviousCourse,5,What were my courses in the previous academic semester?,Your past semesters courses were <previous_course>.
+PreviousCourse,5,Can you list my earlier academic semester courses?,Your earlier semester courses were <previous_course>.
+PreviousCourse,5,What courses did I take in the past semesters?,Your enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the last academic semester?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,Can you tell me my previous semester courses?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the past semesters?,Your enrollments were <previous_course>.
+PreviousCourse,5,Can you share my last academic semester courses?,Your previous semester enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the previous academic semester?,Your past semesters enrollments were <previous_course>.
+PreviousCourse,5,Tell me my earlier semester courses.,Your earlier semester enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the?,Your  enrollments were <previous_course>.
+PreviousCourse,5,Can you list my past semesters courses?,Your previous year enrollments were <previous_course>.
+PreviousCourse,5,What courses did I take in the earlier semester?,Your past year enrollments were <previous_course>.
+PreviousCourse,5,What were my courses in the previous semester?,Your earlier year enrollments were <previous_course>.
+PreviousCourse,5,Can you tell me my courses?,Your enrollments were <previous_course>.
+FreezeSemester,7,Should I freeze my semester?,<FreezeSemester>
+FreezeSemester,7,Do I need to pause my semester?,<FreezeSemester>
+FreezeSemester,7,Must I defer the semester?,<FreezeSemester>
+FreezeSemester,7,Is freezing the semester necessary?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my semester?,<FreezeSemester>
+FreezeSemester,7,Do I have to stop the semester?,<FreezeSemester>
+FreezeSemester,7,Need I freeze this semester?,<FreezeSemester>
+FreezeSemester,7,Should I defer my studies now?,<FreezeSemester>
+FreezeSemester,7,Must I take a semester break?,<FreezeSemester>
+FreezeSemester,7,Do I need a semester freeze?,<FreezeSemester>
+FreezeSemester,7,Should I put my semester on hold?,<FreezeSemester>
+FreezeSemester,7,Is deferring required?,<FreezeSemester>
+FreezeSemester,7,Should I pause my studies?,<FreezeSemester>
+FreezeSemester,7,Need to freeze this semester?,<FreezeSemester>
+FreezeSemester,7,Should I stop attending this semester?,<FreezeSemester>
+FreezeSemester,7,Do I require a semester deferral?,<FreezeSemester>
+FreezeSemester,7,Must I suspend my semester?,<FreezeSemester>
+FreezeSemester,7,Should I take a break from studies?,<FreezeSemester>
+FreezeSemester,7,Need to put studies on pause?,<FreezeSemester>
+FreezeSemester,7,Should I freeze classes?,<FreezeSemester>
+FreezeSemester,7,Do I need to pause academics?,<FreezeSemester>
+FreezeSemester,7,Must I take a leave from university and freeze semester?,<FreezeSemester>
+FreezeSemester,7,Should I halt my courses?,<FreezeSemester>
+FreezeSemester,7,Need to defer enrollment?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my term?,<FreezeSemester>
+FreezeSemester,7,Do I need a study break?,<FreezeSemester>
+FreezeSemester,7,Should I pause university?,<FreezeSemester>
+FreezeSemester,7,Must I freeze the term?,<FreezeSemester>
+FreezeSemester,7,Need to defer my program?,<FreezeSemester>
+FreezeSemester,7,Should I stop this semester?,<FreezeSemester>
+FreezeSemester,7,Do I need a semester leave?,<FreezeSemester>
+FreezeSemester,7,Should I take a semester off?,<FreezeSemester>
+FreezeSemester,7,Need to pause my education?,<FreezeSemester>
+FreezeSemester,7,Must I hold my studies?,<FreezeSemester>
+FreezeSemester,7,Should I delay my semester?,<FreezeSemester>
+FreezeSemester,7,Do I need to defer now?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my academic term?,<FreezeSemester>
+FreezeSemester,7,Need to put my degree on hold?,<FreezeSemester>
+FreezeSemester,7,Should I suspend enrollment?,<FreezeSemester>
+FreezeSemester,7,Must I take a gap semester?,<FreezeSemester>
+FreezeSemester,7,Do I need to stop classes?,<FreezeSemester>
+FreezeSemester,7,Should I pause coursework?,<FreezeSemester>
+FreezeSemester,7,Need to freeze my studies?,<FreezeSemester>
+FreezeSemester,7,Should I defer this term?,<FreezeSemester>
+FreezeSemester,7,Must I stop attending classes?,<FreezeSemester>
+FreezeSemester,7,Should I take a study pause?,<FreezeSemester>
+FreezeSemester,7,Do I need to suspend my semester?,<FreezeSemester>
+FreezeSemester,7,Should I put term on hold?,<FreezeSemester>
+FreezeSemester,7,Need to freeze enrollment?,<FreezeSemester>
+FreezeSemester,7,Should I defer my courses?,<FreezeSemester>
+FreezeSemester,7,Must I pause my program?,<FreezeSemester>
+FreezeSemester,7,Should I halt my education?,<FreezeSemester>
+FreezeSemester,7,Do I need to defer studies?,<FreezeSemester>
+FreezeSemester,7,Should I take a term break?,<FreezeSemester>
+FreezeSemester,7,Need to freeze my academic year?,<FreezeSemester>
+FreezeSemester,7,Should I pause this term?,<FreezeSemester>
+FreezeSemester,7,Must I delay enrollment?,<FreezeSemester>
+FreezeSemester,7,Should I stop the term?,<FreezeSemester>
+FreezeSemester,7,Do I need a pause from universityl?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my university term?,<FreezeSemester>
+FreezeSemester,7,Need to defer my classes?,<FreezeSemester>
+FreezeSemester,7,Should I suspend my courses?,<FreezeSemester>
+FreezeSemester,7,Must I take a semester hiatus?,<FreezeSemester>
+FreezeSemester,7,Should I hold off on studies?,<FreezeSemester>
+FreezeSemester,7,Do I need to freeze univserting?,<FreezeSemester>
+FreezeSemester,7,Should I pause my degree?,<FreezeSemester>
+FreezeSemester,7,Need to delay the semester?,<FreezeSemester>
+FreezeSemester,7,Should I defer my enrollment?,<FreezeSemester>
+FreezeSemester,7,Must I stop this term?,<FreezeSemester>
+FreezeSemester,7,Should I take a break now?,<FreezeSemester>
+FreezeSemester,7,Do I need to freeze my program?,<FreezeSemester>
+FreezeSemester,7,Should I put studies on hold?,<FreezeSemester>
+FreezeSemester,7,Need to pause the term?,<FreezeSemester>
+FreezeSemester,7,Should I halt my program?,<FreezeSemester>
+FreezeSemester,7,Must I defer my academic term?,<FreezeSemester>
+FreezeSemester,7,Should I take a leave of absence?,<FreezeSemester>
+FreezeSemester,7,Do I need to stop studying?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my education?,<FreezeSemester>
+FreezeSemester,7,Need to defer coursework?,<FreezeSemester>
+FreezeSemester,7,Should I suspend my term?,<FreezeSemester>
+FreezeSemester,7,Must I pause university?,<FreezeSemester>
+FreezeSemester,7,Am i need to freeze semester?,<FreezeSemester>
+FreezeSemester,7,Do I need to defer ?,<FreezeSemester>
+FreezeSemester,7,Should I halt my academic term?,<FreezeSemester>
+FreezeSemester,7,Need to freeze my classes?,<FreezeSemester>
+FreezeSemester,7,Should I pause my university term?,<FreezeSemester>
+FreezeSemester,7,Must I take a study hiatus?,<FreezeSemester>
+FreezeSemester,7,Should I stop university temporarily?,<FreezeSemester>
+FreezeSemester,7,Do I need to defer now?,<FreezeSemester>
+FreezeSemester,7,Should I freeze my studies now?,<FreezeSemester>
+FreezeSemester,7,Need to put classes on hold?,<FreezeSemester>
+FreezeSemester,7,Should I pause my education now?,<FreezeSemester>
+FreezeSemester,7,Must I halt my courses now?,<FreezeSemester>
+FreezeSemester,7,Should I take a term off?,<FreezeSemester>
+FreezeSemester,7,Do I need to defer immediately?,<FreezeSemester>
+FreezeSemester,7,Should I suspend my studies?,<FreezeSemester>
+FreezeSemester,7,Need to freeze this academic term?,<FreezeSemester>
+FreezeSemester,7,Should I delay my studies?,<FreezeSemester>
+FreezeSemester,7,Must I pause my universitying?,<FreezeSemester>
+FreezeSemester,7,Should I put my semester on ice?,<FreezeSemester>
+FreezeSemester,7,Am i need to freeze semester?,<FreezeSemester>
+NoOfPickFailCourses,8,how  many Fail courses i need to enroll,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses must I enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes do I need to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail grades need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits do I need to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs force me to enroll again?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes must I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades require repetition?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I have to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses need re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes should I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses are mandatory to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades do I need to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I re-enroll for?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs require me to enroll again?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades force re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I need to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs must I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses require repetition?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects do I need to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes need re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses should I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs do I have to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits require retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades should I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes must I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects need repetition?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes do I need to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades must I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses do I need to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects require retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs do I need to re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades need re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I have to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes require repetition?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs should I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects do I need to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs require me to re-enroll?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I need to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades should I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes require retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs do I need to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses should I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes need redoing?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades must I re-enroll for?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I have to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes must I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses need repetition?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades do I need to re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses require retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects should I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs must I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes do I need to repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits should I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades require retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I re-enroll for?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses do I need to redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects must I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades do I have to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed courses must I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs need retaking?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses should I re-enroll in?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed credits do I need to retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades must I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail classes should I repeat?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed subjects require re-enrollment?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many Fs do I need to re-enroll for?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many fail courses must I retake?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many failed classes should I redo?,You have to enroll <NoOfPickFailCourses> courses.
+NoOfPickFailCourses,8,How many F grades need repetition?,You have to enroll <NoOfPickFailCourses> courses.
+WhichFailCourses,9,Which Fail courses must need to enroll,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses must I enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes do I need to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail grades need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits do I need to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs force me to enroll again?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses must I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades require repetition?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I have to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses need re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes should I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses are mandatory to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades do I need to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I re-enroll for?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs require me to enroll again?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades force re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I need to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs must I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses require repetition?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects do I need to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes need re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses should I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs do I have to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits require retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades should I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes must I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects need repetition?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes do I need to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades must I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses do I need to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects require retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs do I need to re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades need re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I have to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes require repetition?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs should I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects do I need to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs require me to re-enroll?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I need to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades should I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes require retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs do I need to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses should I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes need redoing?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades must I re-enroll for?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I have to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes must I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses need repetition?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades do I need to re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses require retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects should I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs must I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes do I need to repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits should I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades require retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I re-enroll for?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses do I need to redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects must I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades do I have to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed courses must I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs need retaking?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses should I re-enroll in?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed credits do I need to retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades must I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail classes should I repeat?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed subjects require re-enrollment?,You have to enroll <Courses>
+WhichFailCourses,9,Which Fs do I need to re-enroll for?,You have to enroll <Courses>
+WhichFailCourses,9,Which fail courses must I retake?,You have to enroll <Courses>
+WhichFailCourses,9,Which failed classes should I redo?,You have to enroll <Courses>
+WhichFailCourses,9,Which F grades need repetition?,You have to enroll <Courses>
+DoubleDrop,10,Am I going to double drop?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop?,<DoubleDrop>
+DoubleDrop,10,Is double dropping required?,<DoubleDrop>
+DoubleDrop,10,Should I double drop?,<DoubleDrop>
+DoubleDrop,10,Do I doing to double drop?,<DoubleDrop>
+DoubleDrop,10,Must I double drop?,<DoubleDrop>
+DoubleDrop,10,Is double dropping mandatory?,<DoubleDrop>
+DoubleDrop,10,Will I be forced to double drop?,<DoubleDrop>
+DoubleDrop,10,Should I double drop my courses?,<DoubleDrop>
+DoubleDrop,10,Am I required to double drop?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the right choice?,<DoubleDrop>
+DoubleDrop,10,Do I have to double drop now?,<DoubleDrop>
+DoubleDrop,10,Will I end up double dropping?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to fix my grades?,<DoubleDrop>
+DoubleDrop,10,Am I at risk of double dropping?,<DoubleDrop>
+DoubleDrop,10,Is double dropping inevitable?,<DoubleDrop>
+DoubleDrop,10,Do I going to double drop to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing?,<DoubleDrop>
+DoubleDrop,10,Am I likely to double drop?,<DoubleDrop>
+DoubleDrop,10,Will double dropping help me?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to improve my GPA?,<DoubleDrop>
+DoubleDrop,10,Do I have to double drop to stay enrolled?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best option?,<DoubleDrop>
+DoubleDrop,10,Will I need to double drop next term?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to reduce stress?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop this term?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to pass?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid probation?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop my classes?,<DoubleDrop>
+DoubleDrop,10,Is double dropping necessary to graduate?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to retake courses?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop my program?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to reset?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to focus on health?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop due to grades?,<DoubleDrop>
+DoubleDrop,10,Is double dropping required for my major?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid suspension?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop this year?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to stay on track?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid dismissal?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to recover GPA?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the only way out?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid academic penalties?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop next semester?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to fix my record?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing out?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to meet requirements?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best way forward?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to save my GPA?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid expulsion?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid failing?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the only solution?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating courses?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid penalties?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid suspension?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid academic dismissal?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid failing out?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating classes?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid expulsion?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing grades?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid penalties?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the only way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating courses?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid suspension?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid dismissal?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing out?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating classes?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid expulsion?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing grades?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid penalties?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the only way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating courses?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid suspension?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid dismissal?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing out?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating classes?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid expulsion?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing grades?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid penalties?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the only way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating courses?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid suspension?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid dismissal?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing out?,<DoubleDrop>
+DoubleDrop,10,Will I have to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Is double dropping the best way to recover?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid repeating classes?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop to avoid expulsion?,<DoubleDrop>
+DoubleDrop,10,Do I need to double drop to avoid academic probation?,<DoubleDrop>
+DoubleDrop,10,Should I double drop to avoid failing grades?,<DoubleDrop>
+DoubleDrop,10,Am I going to double drop?,<DoubleDrop>
+PromoteSemester,11,Will I promote to next semester?,<Promotion>
+PromoteSemester,11,Will I promote to next semester?,<Promotion>
+PromoteSemester,11,Am I going to the next semester?,<Promotion>
+PromoteSemester,11,Will I move to the next term?,<Promotion>
+PromoteSemester,11,Can I advance to the next semester?,<Promotion>
+PromoteSemester,11,Will I progress to the next semester?,<Promotion>
+PromoteSemester,11,Am I eligible for the next semester?,<Promotion>
+PromoteSemester,11,Will I pass to the next semester?,<Promotion>
+PromoteSemester,11,Can I move forward to the next term?,<Promotion>
+PromoteSemester,11,Will I continue to the next semester?,<Promotion>
+PromoteSemester,11,Am I ready for the next semester?,<Promotion>
+PromoteSemester,11,Will I qualify for the next semester?,<Promotion>
+PromoteSemester,11,Can I proceed to the next semester?,<Promotion>
+PromoteSemester,11,Will I make it to the next semester?,<Promotion>
+PromoteSemester,11,Am I on track for the next semester?,<Promotion>
+PromoteSemester,11,Will I transition to the next semester?,<Promotion>
+PromoteSemester,11,Can I advance to the next term?,<Promotion>
+PromoteSemester,11,Will I be promoted to the next semester?,<Promotion>
+PromoteSemester,11,Am I set for the next semester?,<Promotion>
+PromoteSemester,11,Will I go to the next semester?,<Promotion>
+PromoteSemester,11,Can I move to the next semester?,<Promotion>
+PromoteSemester,11,Will I reach the next semester?,<Promotion>
+PromoteSemester,11,Am I approved for the next semester?,<Promotion>
+PromoteSemester,11,Will I shift to the next semester?,<Promotion>
+PromoteSemester,11,Can I progress to the next semester?,<Promotion>
+PromoteSemester,11,Will I enter the next semester?,<Promotion>
+PromoteSemester,11,Am I cleared for the next semester?,<Promotion>
+PromoteSemester,11,Will I step up to the next semester?,<Promotion>
+PromoteSemester,11,Can I qualify for the next semester?,<Promotion>
+PromoteSemester,11,Will I advance to the next term?,<Promotion>
+PromoteSemester,11,Am I moving to the next semester?,<Promotion>
+PromoteSemester,11,Will I get to the next semester?,<Promotion>
+PromoteSemester,11,Can I pass to the next semester?,<Promotion>
+PromoteSemester,11,Will I proceed to the next semester?,<Promotion>
+PromoteSemester,11,Am I promoted to the next semester?,<Promotion>
+PromoteSemester,11,Will I continue to the next term?,<Promotion>
+PromoteSemester,11,Can I transition to the next semester?,<Promotion>
+PromoteSemester,11,Will I make it to the next term?,<Promotion>
+PromoteSemester,11,Am I advancing to the next semester?,<Promotion>
+PromoteSemester,11,Will I go forward to the next semester?,<Promotion>
+PromoteSemester,11,Can I move forward to the next semester?,<Promotion>
+PromoteSemester,11,Will I progress to the next term?,<Promotion>
+PromoteSemester,11,Am I shifting to the next semester?,<Promotion>
+PromoteSemester,11,Will I step into the next semester?,<Promotion>
+PromoteSemester,11,Can I enter the next semester?,<Promotion>
+PromoteSemester,11,Will I be in the next semester?,<Promotion>
+PromoteSemester,11,Am I progressing to the next semester?,<Promotion>
+PromoteSemester,11,Will I qualify for the next term?,<Promotion>
+PromoteSemester,11,Can I reach the next semester?,<Promotion>
+PromoteSemester,11,Will I move ahead to the next semester?,<Promotion>
+PromoteSemester,11,Am I stepping up to the next semester?,<Promotion>
+PromoteSemester,11,Will I advance to the next semester?,<Promotion>
+PromoteSemester,11,Can I proceed to the next term?,<Promotion>
+PromoteSemester,11,Will I transition to the next term?,<Promotion>
+PromoteSemester,11,Am I moving forward to the next semester?,<Promotion>
+PromoteSemester,11,Will I get promoted to the next semester?,<Promotion>
+PromoteSemester,11,Can I shift to the next semester?,<Promotion>
+PromoteSemester,11,Will I continue to the next semester?,<Promotion>
+PromoteSemester,11,Am I stepping into the next semester?,<Promotion>
+PromoteSemester,11,Will I enter the next term?,<Promotion>
+PromoteSemester,11,Can I progress to the next term?,<Promotion>
+PromoteSemester,11,Will I make it to the next semester?,<Promotion>
+PromoteSemester,11,Am I advancing to the next term?,<Promotion>
+PromoteSemester,11,Will I go to the next term?,<Promotion>
+PromoteSemester,11,Can I move to the next term?,<Promotion>
+PromoteSemester,11,Will I reach the next term?,<Promotion>
+PromoteSemester,11,Am I approved for the next term?,<Promotion>
+PromoteSemester,11,Will I shift to the next term?,<Promotion>
+PromoteSemester,11,Can I progress to the next term?,<Promotion>
+PromoteSemester,11,Will I enter the next term?,<Promotion>
+PromoteSemester,11,Am I cleared for the next term?,<Promotion>
+PromoteSemester,11,Will I step up to the next term?,<Promotion>
+PromoteSemester,11,Can I qualify for the next term?,<Promotion>
+PromoteSemester,11,Will I advance to the next semester?,<Promotion>
+PromoteSemester,11,Am I moving to the next term?,<Promotion>
+PromoteSemester,11,Will I get to the next term?,<Promotion>
+PromoteSemester,11,Can I pass to the next term?,<Promotion>
+PromoteSemester,11,Will I proceed to the next term?,<Promotion>
+PromoteSemester,11,Am I promoted to the next term?,<Promotion>
+PromoteSemester,11,Will I continue to the next term?,<Promotion>
+PromoteSemester,11,Can I transition to the next term?,<Promotion>
+PromoteSemester,11,Will I make it to the next term?,<Promotion>
+PromoteSemester,11,Am I advancing to the next term?,<Promotion>
+PromoteSemester,11,Will I go forward to the next term?,<Promotion>
+PromoteSemester,11,Can I move forward to the next term?,<Promotion>
+PromoteSemester,11,Will I progress to the next term?,<Promotion>
+PromoteSemester,11,Am I shifting to the next term?,<Promotion>
+PromoteSemester,11,Will I step into the next term?,<Promotion>
+PromoteSemester,11,Can I enter the next term?,<Promotion>
+PromoteSemester,11,Will I be in the next term?,<Promotion>
+PromoteSemester,11,Am I progressing to the next term?,<Promotion>
+PromoteSemester,11,Will I qualify for the next term?,<Promotion>
+PromoteSemester,11,Can I reach the next term?,<Promotion>
+PromoteSemester,11,Will I move ahead to the next term?,<Promotion>
+PromoteSemester,11,Am I stepping up to the next term?,<Promotion>
+PromoteSemester,11,Will I advance to the next term?,<Promotion>
+PromoteSemester,11,Can I proceed to the next term?,<Promotion>
+PromoteSemester,11,Will I transition to the next term?,<Promotion>
+PromoteSemester,11,Am I moving forward to the next term?,<Promotion>
+PromoteSemester,11,Will I get promoted to the next term?,<Promotion>
+PromoteSemester,11,Can I shift to the next term?,<Promotion>
+TimeEraOfGraduation,12,What is the total time Era of Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time Era of Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time Era for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Era of Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation Era time?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total Era for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time frame of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time frame Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time frame for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time span of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time span Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time span for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time period of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time period Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time period for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time cycle of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time cycle Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time cycle for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time window of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time window Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time window for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time phase of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time phase Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time phase for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time segment of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time segment Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time segment for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time bracket of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time bracket Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time bracket for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time block of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time block Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time block for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time interval of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time interval Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time interval for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time stretch of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time stretch Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time stretch for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time epoch of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time epoch Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time epoch for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time zone of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time zone Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time zone for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time range of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time range Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time range for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time limit of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time limit Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time limit for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time duration of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time duration Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time duration for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the time slot of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the Graduation time slot Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total time slot for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the time season of Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation time season Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the total time season for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the Graduation phase duration?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How long does the Graduation Era last?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the beginning and end of the Graduation Era?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the standard duration of a Graduation period?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the estimated time required for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the average time frame for completing Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the typical duration of a Graduation cycle?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How long is the Graduation period?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the maximum time limit for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the general timeline for completing Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How much time does it take to finish Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the usual time span for Graduation completion?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How long is a Graduation term?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the expected duration of a Graduation course?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the timeframe required to graduate?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How long does it take to get a degree?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the required timeframe for Graduation completion?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the full length of a Graduation program?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the general time range for earning a degree?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the necessary time commitment for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the typical duration of an undergraduate degree?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the general schedule for a Graduation process?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the normal timeframe for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How many years does a Graduation cycle take?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the total study duration for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What is the minimum and maximum time for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the standard time length of a Graduation session?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the fixed time limit for a Graduation program?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How many semesters does a Graduation program last?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the timeframe for a full-time Graduation course?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the completion timeline for Graduation?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How much time do students take to graduate?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the structured timeline of a Graduation degree?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the formal duration of Graduation studies?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the official timespan for earning a degree?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,How long does an academic Graduation period last?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the regulated time for a Graduation program?,The time Era of Graduation is <TimeEra>.
+TimeEraOfGraduation,12,What’s the expected timeframe for completing studies?,The time Era of Graduation is <TimeEra>.
